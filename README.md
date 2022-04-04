@@ -1,6 +1,13 @@
 # R2B-Gaming-Team-Registration
 R2B gaming registration bulilt with JavaFX and EclipseIDE
 
+What I Learned 
+
+- How to use GUI objects 
+- Java Libraries 
+- Controllers
+- Try/Catch blocks 
+
 Screenshot below
 ||||
 |||
